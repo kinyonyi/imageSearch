@@ -1,0 +1,3 @@
+install DeepImageSearch 
+install c++ (comes with visual studio)
+install django
